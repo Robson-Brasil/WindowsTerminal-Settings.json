@@ -88,10 +88,10 @@
                 "name": "Prompt de comando"
             },
             {
-                "guid" : "{a2a37ca0-8ebd-4d7e-b4b8-e6b1740c2ce0}",
-                "name" : "Python",
-                "commandline" : "C:/Users/Robson Brasil/AppData/Local/Programs/Python/Python310/python.exe",
-                "icon" : "C:/Users/Robson Brasil/AppData/Local/Programs/Python/Python310/Lib/test/imghdrdata/python.png",
+                "commandline": "C:/Users/Robson Brasil/AppData/Local/Programs/Python/Python310/python.exe",
+                "guid": "{a2a37ca0-8ebd-4d7e-b4b8-e6b1740c2ce0}",
+                "icon": "C:/Users/Robson Brasil/AppData/Local/Programs/Python/Python310/Lib/test/imghdrdata/python.png",
+                "name": "Python",
                 "startingDirectory": "D:/GitRepositorio/Projestos em Python"
             },
             {
